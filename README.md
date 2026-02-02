@@ -1,14 +1,14 @@
-# Arduino_sketch_for_I2C_TCS34725_LCD1602
+# Microepsidal
 
 В данном репозитории находится программный код проекта для Arduino Uno R3, соединенного с датчиком цвета TCS34725 и жидкокристаллическим дисплеем LCD 1602.
 
 ### Клонирование репозитория
 
-```git clone https://gitverse.ru/YaroslavIgoshin/Arduino_sketch_for_I2C_TCS34725_LCD1602.git```
+```git clone https://gitverse.ru/YaroslavIgoshin/Microepsidal.git```
 
 или
 
-```git clone https://github.com/IgoshinYaroslav/Arduino_sketch_for_I2C_TCS34725_LCD1602.git```
+```git clone https://github.com/IgoshinYaroslav/Microepsidal.git```
 
 ### Сборка:
 
